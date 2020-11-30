@@ -1,8 +1,8 @@
 import { CommonModule } from '@angular/common'
 import { NgModule } from '@angular/core'
 
-import { ManagerRoutingModule } from './manager-routing.module';
 import { ManagerHomeComponent } from './manager-home/manager-home.component'
+import { ManagerRoutingModule } from './manager-routing.module'
 
 @NgModule({
   declarations: [ManagerHomeComponent],
