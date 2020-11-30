@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core'
       <a mat-button routerLink="/manager/home" routerLinkActive="active-link">
         Manager's Dashboard
       </a>
-      <a mat-button routerLink="manager/users" routerLinkActive="active-link">
+      <a mat-button routerLink="/manager/users" routerLinkActive="active-link">
         User Management
       </a>
       <a mat-button routerLink="/manager/receipts" routerLinkActive="active-link">
